@@ -8,7 +8,6 @@
     --light: #EEE;
     --pink: #e95c68;
     --purple: #8b5cf6;
-
 }
 
 * {
@@ -50,7 +49,6 @@ button {
 
 #new-task-form {
     display: flex;
-
 }
 
 
@@ -119,7 +117,6 @@ button {
     border: 3px solid var(--darkest);
     background-clip: padding-box;
     border-radius: 0.3rem;
-    
 }
 
 .trash-btn {
@@ -132,7 +129,6 @@ button {
     background-clip: padding-box;
     border: 3px solid var(--darkest);
     background-clip: padding-box;
-
 }
 
 .fa-trash, .fa-check {
